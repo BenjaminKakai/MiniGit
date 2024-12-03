@@ -1,0 +1,4 @@
+# Ignore specific files or directories
+.distribvc/
+*.log
+.DS_Store
